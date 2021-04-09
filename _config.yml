@@ -106,3 +106,9 @@ deploy:
   type: git
   repo: git@github.com:abossnes/abossnes.github.io.git
   branch: master
+
+
+# 页面点击小红心
+clickLove:
+  # (关闭请设置为false)
+  enable: false
