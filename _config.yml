@@ -107,6 +107,8 @@ deploy:
   repo: git@github.com:abossnes/abossnes.github.io.git
   branch: master
 
+# 你的头像url
+avatar: source/img/head.jpg
 
 # 页面点击小红心
 clickLove:
